@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20315" started-at="2019-03-13T09:58:12Z" finished-at="2019-03-13T09:58:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20315" started-at="2019-03-13T09:58:12Z" finished-at="2019-03-13T09:58:32Z">
+      <class name="test.rest.Wiremock.SecondScenario">
+        <test-method status="PASS" signature="Hostshutdown()[pri:0, instance:test.rest.Wiremock.SecondScenario@63a65a25]" name="Hostshutdown" duration-ms="6145" started-at="2019-03-13T09:58:12Z" finished-at="2019-03-13T09:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hostshutdown -->
+        <test-method status="PASS" signature="testStatusCodePositive()[pri:1, instance:test.rest.Wiremock.SecondScenario@63a65a25]" name="testStatusCodePositive" duration-ms="75" started-at="2019-03-13T09:58:18Z" finished-at="2019-03-13T09:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCodePositive -->
+        <test-method status="PASS" signature="testStatusCodesecond()[pri:2, instance:test.rest.Wiremock.SecondScenario@63a65a25]" name="testStatusCodesecond" duration-ms="12025" started-at="2019-03-13T09:58:18Z" finished-at="2019-03-13T09:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCodesecond -->
+        <test-method status="PASS" signature="test()[pri:3, instance:test.rest.Wiremock.SecondScenario@63a65a25]" name="test" duration-ms="1827" started-at="2019-03-13T09:58:30Z" finished-at="2019-03-13T09:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:4, instance:test.rest.Wiremock.SecondScenario@63a65a25]" name="test1" duration-ms="210" started-at="2019-03-13T09:58:32Z" finished-at="2019-03-13T09:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- test.rest.Wiremock.SecondScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
